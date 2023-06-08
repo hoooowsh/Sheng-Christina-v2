@@ -6,7 +6,7 @@ async function test(req, res, next) {
     next(ApiError.badRequest("msg field is required and must be non blank"));
     return;
   }
-  res.sendStatus(201);
+  res.sendStatus(201)
 }
 
 module.exports = {
