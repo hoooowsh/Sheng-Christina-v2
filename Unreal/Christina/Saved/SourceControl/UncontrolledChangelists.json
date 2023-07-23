@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/leetcode/Sheng-Assistant/Sheng-Christina-v2/Unreal/Christina/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/leetcode/Sheng-Assistant/Sheng-Christina-v2/Unreal/Christina/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/leetcode/Sheng-Assistant/Sheng-Christina-v2/Unreal/Christina/Content/GUI.uasset"
+			]
+		}
+	]
+}
